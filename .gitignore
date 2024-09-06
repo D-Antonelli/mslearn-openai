@@ -1,2 +1,4 @@
 bin
 obj
+.env
+Labfiles/02-azure-openai-api/Python/.env
